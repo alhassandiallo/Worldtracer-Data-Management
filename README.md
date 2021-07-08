@@ -17,16 +17,16 @@ A - Development Tools
 B - Project Setup
 
 1. Project: Litiges
- * Maven artifact
- * groupId: com.litige
- * artifactId: Litiges
+   * Maven artifact
+      * groupId: com.litige
+      * artifactId: Litiges
 2. Dependencies
- * Hibernate Core ORM
- * MySQL Connector Java (JDBC)
+   * Hibernate Core ORM
+   * MySQL Connector Java (JDBC)
 3. Packages
- * com.litige.business
- * com.litige.dao
- * com.litige.gui
+   * com.litige.business
+   * com.litige.dao
+   * com.litige.gui
 
 
 
