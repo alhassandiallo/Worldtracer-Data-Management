@@ -33,3 +33,17 @@ This is the description of the luggage claim management application.
 ## C- App Architecture
 
 ![image](https://user-images.githubusercontent.com/57788241/124870821-3f342000-dffe-11eb-900d-80bfd4a9c75e.png)
+
+## D- Login Details
+
+### * Admin 
+   	* Username
+  	 		test
+   	* Password
+   		test1234
+   
+### * Agent 
+  	 	* Username
+  	 		test
+   	* Password
+   		test1234
