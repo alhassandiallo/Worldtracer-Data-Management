@@ -37,13 +37,13 @@ This is the description of the luggage claim management application.
 ## D- Login Details
 
 ### * Admin 
-   	* Username
-  	 		test
-   	* Password
-   		test1234
+   * Username:
+  	 	test
+   * Password:
+   	test1234
    
 ### * Agent 
-  	 	* Username
-  	 		test
-   	* Password
-   		test1234
+  * Username:
+  	 	test
+   * Password:
+   	test1234
