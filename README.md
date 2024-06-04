@@ -1,6 +1,6 @@
-# Baggage-Claim-Management
+# Worldtracer-Data-Management
 
-This is the description of the luggage claim management application.
+This is the description of the Worldtracer-Data-Management application.
 
 ## A - Development Tools
 
